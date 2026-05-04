@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/amrutamiti/Desktop/Internals_Basics/MLOPs_Lab_CIE/mlruns/954566053783802809/69da324590ed41e9a263d6ade5db931b/artifacts
+end_time: 1777867466735
+entry_point_name: ''
+experiment_id: '954566053783802809'
+lifecycle_stage: active
+run_id: 69da324590ed41e9a263d6ade5db931b
+run_name: GradientBoosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777867465410
+status: 3
+tags: []
+user_id: amrutamiti

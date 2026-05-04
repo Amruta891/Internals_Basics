@@ -1,0 +1,18 @@
+{
+  "experiment_name": "herdwatch-milk-yield-litres",
+  "models": [
+    {
+      "name": "LinearRegression",
+      "mae": 0.5754,
+      "rmse": 0.6524
+    },
+    {
+      "name": "GradientBoosting",
+      "mae": 1.836,
+      "rmse": 2.2354
+    }
+  ],
+  "best_model": "LinearRegression",
+  "best_metric_name": "rmse",
+  "best_metric_value": 0.6524
+}

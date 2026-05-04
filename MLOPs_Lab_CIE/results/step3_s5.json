@@ -1,0 +1,23 @@
+{
+  "total_predictions": 51,
+  "mean_prediction": 13.1336,
+  "drift_detected": false,
+  "alerts": [
+    {
+      "feature": "temperature_c",
+      "train_mean": 29.02,
+      "live_mean": 28.8,
+      "shift": 0.22,
+      "threshold": 7.73,
+      "status": "OK"
+    },
+    {
+      "feature": "lactation_month",
+      "train_mean": 5.56,
+      "live_mean": 5.63,
+      "shift": 0.07,
+      "threshold": 1.65,
+      "status": "OK"
+    }
+  ]
+}

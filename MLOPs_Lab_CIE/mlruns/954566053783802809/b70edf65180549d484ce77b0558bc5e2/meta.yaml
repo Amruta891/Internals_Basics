@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/amrutamiti/Desktop/Internals_Basics/MLOPs_Lab_CIE/mlruns/954566053783802809/b70edf65180549d484ce77b0558bc5e2/artifacts
+end_time: 1777867461509
+entry_point_name: ''
+experiment_id: '954566053783802809'
+lifecycle_stage: active
+run_id: b70edf65180549d484ce77b0558bc5e2
+run_name: LinearRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777867459842
+status: 3
+tags: []
+user_id: amrutamiti

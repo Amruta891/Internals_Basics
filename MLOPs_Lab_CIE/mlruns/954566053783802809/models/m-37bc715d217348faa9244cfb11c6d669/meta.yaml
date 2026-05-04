@@ -1,0 +1,10 @@
+artifact_location: file:///Users/amrutamiti/Desktop/Internals_Basics/MLOPs_Lab_CIE/mlruns/954566053783802809/models/m-37bc715d217348faa9244cfb11c6d669/artifacts
+creation_timestamp: 1777867459858
+experiment_id: '954566053783802809'
+last_updated_timestamp: 1777867461508
+model_id: m-37bc715d217348faa9244cfb11c6d669
+model_type: null
+name: model
+source_run_id: b70edf65180549d484ce77b0558bc5e2
+status: 2
+status_message: null

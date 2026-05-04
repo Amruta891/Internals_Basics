@@ -1,0 +1,16 @@
+{
+  "health_endpoint": "/heartbeat",
+  "predict_endpoint": "/forecast",
+  "port": 8500,
+  "health_response": {
+    "status": "healthy",
+    "model_loaded": true
+  },
+  "test_input": {
+    "feed_quality_score": 5.7,
+    "animal_age_years": 6.7,
+    "temperature_c": 29.9,
+    "lactation_month": 4
+  },
+  "prediction": 14.1154
+}
